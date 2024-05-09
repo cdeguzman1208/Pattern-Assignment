@@ -1,7 +1,7 @@
 # Pattern-Assignment
 
 ## Requirements:
-- Create a system that generates a repeating patterns using **_more than one algorithm_** (does not need to be one shown in class)
+- Create a system that generates a repeating patterns using <ins>**more than one algorithm**</ins> (does not need to be one shown in class)
   - *Examples include Noise (Perlin/Simplex), Cellular Automata, Autonomous Agents, Point Distribution, Voronoi, and more.*
 - This pattern should be either repeating (near-infinite) -or- update over time (cellular automata)
   - Perlin for instance is near-infinite, and cellular automata or agents are by their nature updating over time
