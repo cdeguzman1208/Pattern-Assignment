@@ -4,8 +4,30 @@
     <meta charset="UTF-8">
     <title>Dynamic Generative Art Gallery</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        canvas {
+            border: 1px solid #000;
+            margin-top: 20px;
+        }
+        p {
+            max-width: 800px;
+            margin: 20px;
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
+    <h1>Dynamic Generative Art Gallery</h1>
+    <p>Click on the canvas to switch between different generative artworks. This gallery showcases two generative patterns: Perlin Noise and Cellular Automata.</p>
     <script src="sketch.js"></script>
 </body>
 </html>
