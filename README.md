@@ -12,7 +12,7 @@
 
 **GitHub Repository:** https://github.com/cdeguzman1208/Pattern-Assignment
 
-**Deployment Page:**
+**Deployment Page:** https://cdeguzman1208.github.io/Pattern-Assignment/
 
 ## Description:
 
